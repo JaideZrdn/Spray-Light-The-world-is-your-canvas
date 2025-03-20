@@ -1,25 +1,37 @@
-# Spray-Light-The-world-is-your-canvas
+# Spray Light - The World Is Your Canvas
 
-**Spray Light**, vejas seus grafites ganharam vida com Realidade Aumentada!
+**Spray Light**, watch your graffiti come to life with **Augmented Reality**!
 
-Nós vivemos em um espaço que está cada vez mais sendo tomado por prédios altos, céu cinza, multidões andando de um lado para o outro onde todas essas pessoas estão sempre ocupadas em uma espécie de "piloto automático".
+We live in a space that is increasingly being taken over by tall buildings, gray skies, and crowds walking back and forth, where all these people are always busy in some kind of “**autopilot**.”
 
-No meio de toda essa monotonia existe o grafite, ele é uma arte feita para ser vista, ser apreciada, porém, muitos grafiteiros não conseguem obter tal reconhecimento e acabam sendo mal vistos pela sociedade onde ele tinha o simples e belo papel de colorir um pouco o dia de alguém.
+In the midst of all this monotony, there is _graffiti_. It is an art meant to be seen and appreciated, but many graffiti artists struggle to gain recognition and end up being viewed negatively by society, despite having the simple and beautiful role of brightening someone’s day.
 
-Então, buscando ressignificar como a sociedade enxerga o Grafite e tirar um pouco desse "piloto automático" criamos o *Spray Light*.
+So, in an effort to redefine how society sees _graffiti_ and break the “_autopilot_” routine, we created **Spray Light**.
 
-No *Spray Light* você consegue **espalhar** grafites pelos muros da cidade, fazendo com que seja possível a visualização deles usando **Realidade Aumentada**. A cada grafite que você posiciona um **pin** é deixado no **mapa** para você lembrar onde postou, ao chegar perto e ativar o modo de AR conseguirá vê-los.
+## What is Spray Light?
 
-Com ele, buscamos **mudar** um pouco a **visão marginalizada** que a sociedade tem perante o grafite e também **estimular** que **novos grafiteiros** surjam, colocando incialmente suas artes de **modo virtual!**
+With **Spray Light**, you can spread _graffiti_ across the city’s walls, making it possible to view them using **Augmented Reality**. Each graffiti you place leaves a **pin** on the **map** to help you remember where you posted it. When you get close and activate AR mode, you’ll be able to see them.
 
-Spray Light está disponível para download na AppStore!
+With this, we aim to:
+- **Change** the marginalized perception society has of _graffiti_ 
+- **Encourage** the emergence of new graffiti artists, initially showcasing their art in **virtual form**!
 
-Sobre as tecnologias usadas:
-- **SwiftUI**: Para o desenvolvimento da UI do App no geral
-- **RealityKit & ARKit**: Para gerenciar quaisquer processos envolvendo toda a dinâmica de Realidade Aumentada como o post, translação, rotação do objeto, criação de novas entidades entre outras tarefas.
-- **SwiftData & DTO**: Para salvar os graffitis localmente e Data Transfer Object (DTO) para realizar uma transferência segura de dados pelo aplicativo usando Sendables
-- **UIKit**: Usado para iniciar as ARView em UIViewRepresentables
-- **TipKit**: Para facilitar a experiência do usuário e o entendimento de algumas features durante o uso do app
+[**Spray Light is available for download on the App Store!**](https://apps.apple.com/br/app/spray-light/id6737986180)
 
-Em versões testes que não entraram no MVP disponível na AppStore:
-- **CloudKit**: Testes de compartilhamento via nuvem de ARWorldMap
+---
+
+## Technologies Used
+
+- **SwiftUI**: For the development of the overall app UI
+- **RealityKit & ARKit**: For managing processes involving the entire Augmented Reality dynamic, such as posting, translation, object rotation, creation of new entities, and other tasks.
+- **SwiftData & DTO**: To save graffiti locally and use Data Transfer Objects (DTO) for secure data transfer via the app using Sendables
+- **UIKit**: Used to initiate ARView in UIViewRepresentables
+- **TipKit**: To enhance the user experience and provide guidance on some features during app usage
+
+---
+
+## Test Versions (Not Available in the MVP)
+
+- **CloudKit**: Cloud-based ARWorldMap sharing tests
+
+---
