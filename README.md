@@ -1,7 +1,7 @@
 # Spray Light - The World Is Your Canvas
 
 **Spray Light**, watch your graffiti come to life with **Augmented Reality**!
-![Group 15](https://github.com/user-attachments/assets/cb137d95-99d7-4ad9-8c25-8ffd71a8aa03)
+[![Group 15](https://github.com/user-attachments/assets/cb137d95-99d7-4ad9-8c25-8ffd71a8aa03)](https://apps.apple.com/br/app/spray-light/id6737986180?l=en-GB)
 
 We live in a space that is increasingly being taken over by tall buildings, gray skies, and crowds walking back and forth, where all these people are always busy in some kind of “**autopilot**.”
 
