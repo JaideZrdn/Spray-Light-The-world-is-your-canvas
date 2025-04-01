@@ -1,6 +1,7 @@
 # Spray Light - The World Is Your Canvas
 
 **Spray Light**, watch your graffiti come to life with **Augmented Reality**!
+![Group 15](https://github.com/user-attachments/assets/cb137d95-99d7-4ad9-8c25-8ffd71a8aa03)
 
 We live in a space that is increasingly being taken over by tall buildings, gray skies, and crowds walking back and forth, where all these people are always busy in some kind of “**autopilot**.”
 
@@ -27,11 +28,24 @@ With this, we aim to:
 - **SwiftData & DTO**: To save graffiti locally and use Data Transfer Objects (DTO) for secure data transfer via the app using Sendables
 - **UIKit**: Used to initiate ARView in UIViewRepresentables
 - **TipKit**: To enhance the user experience and provide guidance on some features during app usage
-
 ---
-
 ## Test Versions (Not Available in the MVP)
 
 - **CloudKit**: Cloud-based ARWorldMap sharing tests
 
 ---
+
+## Development Skills
+
+- MVVM Architecture
+- SwiftUI
+- ECS for ARKit Entities
+- Conventional Commits (Git)
+
+---
+
+### Authors
+
+- [Jaide Fernando de Carvalho Zardin](https://github.com/JaideZrdn)
+- [Pedro Larry](https://github.com/larry4us)
+- [Isadora Cristina](https://www.linkedin.com/in/isadora-cristina-farias-bastos-9a992b219/)
